@@ -1,3 +1,3 @@
 # books_grupa1
 
-To jest nasz nowy super projekt
+To jest nasz nowy super projekt!
